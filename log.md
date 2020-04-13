@@ -1,11 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: April 13, 2020
-##### (delete me or comment me out)
+### Day 1: April 13, 2020
 
-**Today's Progress**: Watched Array lecture on Udemy from The Java Masterclass course by Tim Buchalka and gave a try to the array challenge (not yet solved entirely)
+**Today's Progress**: Watched Array lecture on Udemy from The Java Masterclass course by Tim Buchalka and gave a try to the array challenge (I have not solved it yet entirely)
 
-**Thoughts:** : I really struggled with the descend ordering in an array, even so I have done it before (about a year ago). I always have to give it sleep or some hours to solve these kind of logical problems. I think it will be better over time.
+**Thoughts:** : I really struggled with the descend ordering in an array, even so I have done it before (about a year ago). I always have to give it a sleep or some hours to solve these kind of logical problems. I think it will be better over time.
 
 **Link to work:** N/A
 
