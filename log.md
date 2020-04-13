@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
+### Day 0: April 13, 2020
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Watched Array lecture on Udemy from The Java Masterclass course by Tim Buchalka and gave a try to the array challenge (not yet solved entirely)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** : I really struggled with the descend ordering in an array, even so I have done it before (about a year ago). I always have to give it sleep or some hours to solve these kind of logical problems. I think it will be better over time.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** N/A
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
