@@ -8,14 +8,13 @@
 
 **Link to work:** N/A
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: April 14, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Solved the Array challenge (with a little help) and I watched a recap about Arrays in Tim Buchalka's java Masterclass.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** : I had some hard time figuring out the sorting algorithm as I had t use maximum of 3 methods and one of my previous sorting program sued 5 of them. So I had to get some help fro the Internet but I got the idea of the used algorithm and from this PoV it seems easy and a" Why I did not think of this.." solution. :)
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** N/A
 
 
 ### Day 1: June 27, Monday
