@@ -19,7 +19,7 @@
 
 ### Day 3: April 15, 2020
 
-**Today's Progress**: Solved the MinValue CHallenge in Tim's Java Masterclass and learned some useful information about references.
+**Today's Progress**: Solved the MinValue Challenge in Tim's Java Masterclass and learned some useful information about references.
 
 **Thoughts:** : It was a great thing that Tim explained the difference between reference types and value types. Today the challenge went well and I could solve it easily and my mood is still "up".
 
