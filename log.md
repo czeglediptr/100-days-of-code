@@ -17,12 +17,10 @@
 **Link to work:** N/A
 
 
-### Day 1: June 27, Monday
+### Day 3: April 15, 2020
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Solved the MinValue CHallenge in Tim's Java Masterclass and learned some useful information about references.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:** : It was a great thing that Tim explained the difference between reference types and value types. Today the challenge went well and I could solve it easily and my mood is still "up".
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** N/A
