@@ -24,3 +24,11 @@
 **Thoughts:** : It was a great thing that Tim explained the difference between reference types and value types. Today the challenge went well and I could solve it easily and my mood is still "up".
 
 **Link to work:** N/A
+
+### Day 4: April 16, 2020
+
+**Today's Progress**: Solved the ReverseArray Challenge in Tim's Java Masterclass and learned about ArrayLists.
+
+**Thoughts:** : I could solve the reverseArray challenge easily and it got me some confidence. Also I got some refresh about ArrayList. I used them last year in MOOC Java course.
+
+**Link to work:** N/A
