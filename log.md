@@ -32,3 +32,10 @@
 **Thoughts:** : I could solve the reverseArray challenge easily and it got me some confidence. Also I got some refresh about ArrayList. I used them last year in MOOC Java course.
 
 **Link to work:** N/A
+
+### Day 5: April 17, 2020
+
+**Today's Progress**: I continued with Tim's course and learned useful tips about ArrayLists
+
+**Thoughts:** : Today wwas mainly watching some video as I was so tired of getting up early. But my #100DaysofCode cannot suffer this.
+**Link to work:** N/A
