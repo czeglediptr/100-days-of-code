@@ -38,4 +38,5 @@
 **Today's Progress**: I continued with Tim's course and learned useful tips about ArrayLists
 
 **Thoughts:** : Today wwas mainly watching some video as I was so tired of getting up early. But my #100DaysofCode cannot suffer this.
+
 **Link to work:** N/A
