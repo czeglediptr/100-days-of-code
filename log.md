@@ -40,3 +40,11 @@
 **Thoughts:** : Today wwas mainly watching some video as I was so tired of getting up early. But my #100DaysofCode cannot suffer this.
 
 **Link to work:** N/A
+
+### Day 6: April 18, 2020
+
+**Today's Progress**: I started to work on a ArrayList challenge provided by Tim's course.
+
+**Thoughts:** : Today was a bit of struggle as I used the OOP rules a wee bit long time, so I had to cacth it up. (mostly searched the terms in my brain, so it was a bit of a brain-training as well)
+
+**Link to work:** N/A
