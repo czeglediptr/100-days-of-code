@@ -51,7 +51,7 @@
 
 ### Day 7: April 20, 2020
 
-**Today's Progress**: I "finished" the ArrayList Challenge provided by Tim's Java MAsterclass Course. Honestly I do not think I ever feel any of my program finished. Somehow I always find some place for improvement.
+**Today's Progress**: I "finished" the ArrayList Challenge provided by Tim's Java MAsterclass Course. Honestly I do not think I ever feel any of my program finished. Somehow I always find some room for improvement.
 
 **Thoughts:** : Honestly, today I was so tired and I believed it is impossible to code. However I sat down and "coded out of my frustration". I struggled with this challenge a little bit and I do not see it as "finished", but it will do for now(until I refactor the whole thing ^^'). I could not check Tim's solution for this challenge but tomorrow I will see if I was on the righ track. 
 
