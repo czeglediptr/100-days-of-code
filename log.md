@@ -56,3 +56,12 @@
 **Thoughts:** : Honestly, today I was so tired and I believed it is impossible to code. However I sat down and "coded out of my frustration". I struggled with this challenge a little bit and I do not see it as "finished", but it will do for now(until I refactor the whole thing ^^'). I could not check Tim's solution for this challenge but tomorrow I will see if I was on the righ track. 
 
 **Link to work:** N/A
+
+
+### Day 8: April 21, 2020
+
+**Today's Progress**: Today I had to put aside Java for a little bit. So I played around CSS shapes and I just started to "draw" something. I will share it once its done!
+
+**Thoughts:** : Today I was tired, so I dropped Java for a day and started to play with CSS shapes.
+
+**Link to work:** N/A
