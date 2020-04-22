@@ -65,3 +65,11 @@
 **Thoughts:** : Today I was tired, so I dropped Java for a day and started to play with CSS shapes.
 
 **Link to work:** N/A
+
+### Day 9: April 22, 2020
+
+**Today's Progress**: Today I reviewed the ArryList Challenge in Tim Buchalka's Javacourse and checked my results with his. Sadly I have to stop the course here, because I started it three times and I still think its a little bit too much and has a little bit less clearer explanations than I expect from a course. So right now I am wondering where to go tomorrow: WebDev/Python another Java course I do not know. 
+
+**Thoughts:** : Mot of my thougts written in the progress line.
+
+**Link to work:** N/A
