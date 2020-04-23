@@ -70,6 +70,14 @@
 
 **Today's Progress**: Today I reviewed the ArryList Challenge in Tim Buchalka's Javacourse and checked my results with his. Sadly I have to stop the course here, because I started it three times and I still think its a little bit too much and has a little bit less clearer explanations than I expect from a course. So right now I am wondering where to go tomorrow: WebDev/Python another Java course I do not know. 
 
-**Thoughts:** : Mot of my thougts written in the progress line.
+**Thoughts:** : Most of my thougts written in the progress line.
+
+**Link to work:** N/A
+
+### Day 10: April 23, 2020
+
+**Today's Progress**: I continued my Java adventure with new MOOC Java programming course. Its very engaging and seems as a good source. 
+
+**Thoughts:** : I set aside Tim's course and continued MOOC Java programming with the renewed course. It feels  alittle bit more engaging and more descriptive.
 
 **Link to work:** N/A
