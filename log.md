@@ -81,3 +81,11 @@
 **Thoughts:** : I set aside Tim's course and continued MOOC Java programming with the renewed course. It feels  alittle bit more engaging and more descriptive.
 
 **Link to work:** N/A
+
+### Day 11: April 24, 2020
+
+**Today's Progress**: I continued with new MOOC Java programming course. I was a little bit tired but somehow  could manage to code today as well.
+
+**Thoughts:** : I was so tired after work, I did not expect that I could code after it. But I pushed myself a littlebit and finished some excercises in MOOC Java.
+
+**Link to work:** N/A
