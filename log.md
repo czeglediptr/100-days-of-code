@@ -89,3 +89,11 @@
 **Thoughts:** : I was so tired after work, I did not expect that I could code after it. But I pushed myself a littlebit and finished some excercises in MOOC Java.
 
 **Link to work:** N/A
+
+
+### Day 12: April 25, 2020
+
+**Today's Progress**: I continued with the MOOC Java course. I like the style of the course! Also I started to search after some projects where I could use my Java knowledge. No luck yet, but I might need another approach to find some ideas..
+
+**Thoughts:** : I coded before noon, so I could do it with a fresh mind, which was quite useful.
+**Link to work:** N/A
