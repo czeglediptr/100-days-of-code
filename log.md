@@ -97,3 +97,10 @@
 
 **Thoughts:** : I coded before noon, so I could do it with a fresh mind, which was quite useful.
 **Link to work:** N/A
+
+### Day 13: April 26, 2020
+
+**Today's Progress**: Today I set aside Java for a little bit and continued CS50. I submitted the Scratch Problem set. I did not know about Scratch before, it was a real surprise. After that I continued with the C lecture.
+
+**Thoughts:** : The CS50 teacher is amazing and the course is absolutely engaging and worthwhile. I am so surprised how much I did not know about computers! (even so I am an Engineer)
+**Link to work:** N/A
