@@ -96,6 +96,7 @@
 **Today's Progress**: I continued with the MOOC Java course. I like the style of the course! Also I started to search after some projects where I could use my Java knowledge. No luck yet, but I might need another approach to find some ideas..
 
 **Thoughts:** : I coded before noon, so I could do it with a fresh mind, which was quite useful.
+
 **Link to work:** N/A
 
 ### Day 13: April 26, 2020
@@ -103,4 +104,14 @@
 **Today's Progress**: Today I set aside Java for a little bit and continued CS50. I submitted the Scratch Problem set. I did not know about Scratch before, it was a real surprise. After that I continued with the C lecture.
 
 **Thoughts:** : The CS50 teacher is amazing and the course is absolutely engaging and worthwhile. I am so surprised how much I did not know about computers! (even so I am an Engineer)
+
+**Link to work:** N/A
+
+
+### Day 14: April 28, 2020
+
+**Today's Progress**: As I had to skip a day, I doubled the time I spent with programming. I contineud and finished the C lecture of CS50 and submitted the frist assignment. One more to go.
+
+**Thoughts:** : Yesterday was busy so I could not code. However today I spent 2 hours+ with coding so all debts are paid.
+
 **Link to work:** N/A
