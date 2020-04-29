@@ -115,3 +115,12 @@
 **Thoughts:** : Yesterday was busy so I could not code. However today I spent 2 hours+ with coding so all debts are paid.
 
 **Link to work:** N/A
+
+
+### Day 15: April 29, 2020
+
+**Today's Progress**: I spent my hours to finish the second task of the C part of CS50: Intro. It is still incomplete but I am close to finish it.
+
+**Thoughts:** : I got stuck with the second C submission, which made me a little bit tired. So I continue tomorrow from here. I am close to the solution!
+
+**Link to work:** N/A
