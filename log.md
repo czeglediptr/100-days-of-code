@@ -124,3 +124,11 @@
 **Thoughts:** : I got stuck with the second C submission, which made me a little bit tired. So I continue tomorrow from here. I am close to the solution!
 
 **Link to work:** N/A
+
+### Day 16: April 30, 2020
+
+**Today's Progress**: Today I had very little time, so I polished my submission for CS50 and its almost ready.
+
+**Thoughts:** : Today I only coded at the morning but it was more effective then last night. I think my brain has more power in morning.
+
+**Link to work:** N/A
