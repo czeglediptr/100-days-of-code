@@ -132,3 +132,12 @@
 **Thoughts:** : Today I only coded at the morning but it was more effective then last night. I think my brain has more power in morning.
 
 **Link to work:** N/A
+
+
+### Day 17: May 01, 2020
+
+**Today's Progress**: I spent 4 hours with CS50: Intro to CS. I submitted the credit card number validitiy checker submission and continued to the Array section of the course. I like this course, now I know why others recommend it.
+
+**Thoughts:** : I spent four hours with coding today and I am very proud of that!
+
+**Link to work:** N/A
