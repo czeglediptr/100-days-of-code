@@ -141,3 +141,10 @@
 **Thoughts:** : I spent four hours with coding today and I am very proud of that!
 
 **Link to work:** N/A
+
+### Day 18: May 02, 2020
+
+**Today's Progress**: Continued Cs50 Array lecture and finished with the short videos too. I started to plan my solution for the first pset in this lecture.  
+
+**Thoughts:** : I was a little bi tired , so today I just watched the left short videos and started to plan how to solve the first pset. Tomorrow I'll try to crack it! 
+**Link to work:** N/A
