@@ -147,4 +147,15 @@
 **Today's Progress**: Continued Cs50 Array lecture and finished with the short videos too. I started to plan my solution for the first pset in this lecture.  
 
 **Thoughts:** : I was a little bi tired , so today I just watched the left short videos and started to plan how to solve the first pset. Tomorrow I'll try to crack it! 
+
 **Link to work:** N/A
+
+### Day 19: May 03, 2020
+
+**Today's Progress**: Today I finished and submitted the "readability" problem set for CS50. I learned a lot during the creation of the program. Last but not least I enjoyed creating this program!
+
+**Thoughts:** : First in my life I enjoyed creating the solution for this problem set. I dont know why but it seems I start to think better of myself! I learned to respect myself and to be patient with my progress. I imagine that one day I will not be as hard on myself as in the past, since I start to understand that I hurt myself a lot and it was neither good nor wise.
+
+**Link to work:** N/A
+
+
