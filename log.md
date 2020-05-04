@@ -159,3 +159,10 @@
 **Link to work:** N/A
 
 
+### Day 20: May 04, 2020
+
+**Today's Progress**: I worked on the Caesar problem set for CS50 and it seems easy but it contains some tricky part. But I am tired of work so I have to finish it tomorrow morning (before work). 
+
+**Thoughts:** : I was a little bit tired so I coded only 1 hour so I could not finisht he problem set. But I am proud that I am not struggling that much on an erro and I ama ble to resolve it quickly! Progress..progress!
+
+**Link to work:** N/A
