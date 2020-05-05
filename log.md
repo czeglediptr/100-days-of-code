@@ -166,3 +166,14 @@
 **Thoughts:** : I was a little bit tired so I coded only 1 hour so I could not finisht he problem set. But I am proud that I am not struggling that much on an erro and I ama ble to resolve it quickly! Progress..progress!
 
 **Link to work:** N/A
+
+
+
+
+### Day 21: May 05, 2020
+
+**Today's Progress**: I continued the Caesar problem set but I could not finish it since I had a very little time to code today. But tomorrow I will finish it!
+
+**Thoughts:** : Just a thought: One must be patient to her/himself and not to forget kindness. Those two will bring you great and bright moments.
+
+**Link to work:** N/A
