@@ -179,7 +179,8 @@
 
 ### Day 22: May 06, 2020
 
-**Today's Progress**: Finally I finished the Caesar problem set for CS50 and I am kind of proud of it. However I have to refactor my code as I suspect some palces where I could use a smarter way. But its working. Next up is the Substitution pset  which uses a more sophisticated substitution cipher.
+**Today's Progress**: I finished the Caesar pset for CS50 and I am kind of proud of it. However I have to refactor my code as I suspect some places where I could use a smarter approach. But its working. 
+Next up is the Substitution pset  which is a little bit harder.
 
 **Thoughts:** : I am proud of creating this program, and I can not wait to start the other pset which is more complex than this one!
 
