@@ -168,12 +168,19 @@
 **Link to work:** N/A
 
 
-
-
 ### Day 21: May 05, 2020
 
 **Today's Progress**: I continued the Caesar problem set but I could not finish it since I had a very little time to code today. But tomorrow I will finish it!
 
 **Thoughts:** : Just a thought: One must be patient to her/himself and not to forget kindness. Those two will bring you great and bright moments.
+
+**Link to work:** N/A
+
+
+### Day 22: May 06, 2020
+
+**Today's Progress**: Finally I finished the Caesar problem set for CS50 and I am kind of proud of it. However I have to refactor my code as I suspect some palces where I could use a smarter way. But its working. Next up is the Substitution pset  which uses a more sophisticated substitution cipher.
+
+**Thoughts:** : I am proud of creating this program, and I can not wait to start the other pset which is more complex than this one!
 
 **Link to work:** N/A
