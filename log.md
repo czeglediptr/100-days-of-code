@@ -185,3 +185,12 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : I am proud of creating this program, and I can not wait to start the other pset which is more complex than this one!
 
 **Link to work:** N/A
+
+
+### Day 23: May 07, 2020
+
+**Today's Progress**: I refactored my code for the Caesar pset and its better now. After that I started to work on the substitution pset. 
+
+**Thoughts:** : I am starting to realize that I kind of enjoy the coding process and sometimes during work I do some "sneaky coding" instead of my job. Maybe it seems bad but its exactly the opposite. Finally I can do what I want instead of doing something for someone who does not value it too much. I am doing things for myself as I value my work! 
+
+**Link to work:** N/A
