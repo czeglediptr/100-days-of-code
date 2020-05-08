@@ -194,3 +194,12 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : I am starting to realize that I kind of enjoy the coding process and sometimes during work I do some "sneaky coding" instead of my job. Maybe it seems bad but its exactly the opposite. Finally I can do what I want instead of doing something for someone who does not value it too much. I am doing things for myself as I value my work! 
 
 **Link to work:** N/A
+
+
+### Day 24: May 08, 2020
+
+**Today's Progress**: I have successfully submitted the Substitution problem set for CS50x. I could create it faster than the Caesar project. So I am a little bit proud of myself!
+
+**Thoughts:** : It was so good that I coudl solve this problem easier than the one before. I feel proud and I am happy about this!
+**Link to work:** N/A
+
