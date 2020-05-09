@@ -203,3 +203,11 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : It was so good that I coudl solve this problem easier than the one before. I feel proud and I am happy about this!
 **Link to work:** N/A
 
+
+### Day 25: May 09, 2020
+
+**Today's Progress**:Continued Cs50 with the algortihm section and it was really intriguing and in some spot confusing. Lets see tomorrow how well I understood the basics of recursion and some of the sort algorithm like merge sort.
+
+**Thoughts:** : Since I had a headache I only watched some videos today, but it was enough to push my brain to think hardly. I think its good and thats what my brain needs, some material to think of. NOw I close my day with "Antonius and Cleopatra" on National Theatre Live Youtube channel.
+
+**Link to work:** N/A
