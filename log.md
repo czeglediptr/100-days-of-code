@@ -211,3 +211,12 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : Since I had a headache I only watched some videos today, but it was enough to push my brain to think hardly. I think its good and thats what my brain needs, some material to think of. NOw I close my day with "Antonius and Cleopatra" on National Theatre Live Youtube channel.
 
 **Link to work:** N/A
+
+
+### Day 26: May 10, 2020
+
+**Today's Progress**: I had the chance to try out recursion and its quite useful I must say! LAso continued with the short videos on CS50 and tomorrow I start to solve the problemset(s) for Week3. 
+
+**Thoughts:** : Today I had to reinstall Windows, as I faced the issue that I need some gaming to chill from programming and work. Now, I need to control my behaviour accordingly!
+
+**Link to work:** N/A
