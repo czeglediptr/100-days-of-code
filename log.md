@@ -220,3 +220,12 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : Today I had to reinstall Windows, as I faced the issue that I need some gaming to chill from programming and work. Now, I need to control my behaviour accordingly!
 
 **Link to work:** N/A
+
+
+### Day 27: May 11, 2020
+
+**Today's Progress**: I successfully submitted the plurality porblem set for CS50. I will start the next problem set tomorrow, as today my brain needs some rest so I obey it.
+
+**Thoughts:** : Lets face it, I solved the problem set but the rancher config at work made me tired. So it is a great accomplishment for today!
+
+**Link to work:** N/A
