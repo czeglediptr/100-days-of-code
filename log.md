@@ -229,3 +229,13 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : Lets face it, I solved the problem set but the rancher config at work made me tired. So it is a great accomplishment for today!
 
 **Link to work:** N/A
+
+
+
+### Day 28: May 13, 2020
+
+**Today's Progress**: I have finished with the rundown challenge for CS50 and it has passed all the tests! Tomorrow I try to solve the Tideman challenge. Let see how far I get...
+
+**Thoughts:** : Today after work I was tired again, so my brain was slow a little bit. However I could solve the runoff challenge and I am proud that I could do it with one blow (no errors for the first run). Of course it might has some room for improvement, but I will get back to it later. (when I have more experience)
+
+**Link to work:** N/A
