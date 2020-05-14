@@ -231,11 +231,19 @@ Next up is the Substitution pset  which is a little bit harder.
 **Link to work:** N/A
 
 
-
 ### Day 28: May 13, 2020
 
 **Today's Progress**: I have finished with the rundown challenge for CS50 and it has passed all the tests! Tomorrow I try to solve the Tideman challenge. Let see how far I get...
 
 **Thoughts:** : Today after work I was tired again, so my brain was slow a little bit. However I could solve the runoff challenge and I am proud that I could do it with one blow (no errors for the first run). Of course it might has some room for improvement, but I will get back to it later. (when I have more experience)
+
+**Link to work:** N/A
+
+
+### Day 29: May 14, 2020
+
+**Today's Progress**: I started the Tideman problem set, but I stuck on one of the functions. I decided to put it away a little bit and get back to it tomorrow with a fresh brain. But at least I solved two of the required functions, so this day will not go in vain.
+
+**Thoughts:** : Today I struggled a little bit and I had to decide to put away the problem set and let my brain rest. It seems my hours in work started to be a little bit more challenging, so some of my energy gone there.
 
 **Link to work:** N/A
