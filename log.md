@@ -247,3 +247,10 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : Today I struggled a little bit and I had to decide to put away the problem set and let my brain rest. It seems my hours in work started to be a little bit more challenging, so some of my energy gone there.
 
 **Link to work:** N/A
+
+### Day 30: May 15, 2020
+
+**Today's Progress**: I tried to crack the tideman challenge, but no luck so far. I think I will have more luck tomorrow since there will be no  work houra after &before coding :)
+
+**Thoughts:** : I do not have the mood to share my thoughts.
+**Link to work:** N/A
