@@ -254,3 +254,10 @@ Next up is the Substitution pset  which is a little bit harder.
 
 **Thoughts:** : I do not have the mood to share my thoughts.
 **Link to work:** N/A
+
+### Day 31: May 15, 2020
+
+**Today's Progress**: I could finally create two of the functions I struggled with earlier for the Tideman challenge, 2 more to go and I am done with it. Somehow this problem set seems harder than the ones before...
+
+**Thoughts:** : I do not have the mood to share my thoughts.
+**Link to work:** N/A
