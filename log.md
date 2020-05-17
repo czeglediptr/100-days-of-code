@@ -253,6 +253,7 @@ Next up is the Substitution pset  which is a little bit harder.
 **Today's Progress**: I tried to crack the tideman challenge, but no luck so far. I think I will have more luck tomorrow since there will be no  work houra after &before coding :)
 
 **Thoughts:** : I do not have the mood to share my thoughts.
+
 **Link to work:** N/A
 
 ### Day 31: May 15, 2020
@@ -260,4 +261,14 @@ Next up is the Substitution pset  which is a little bit harder.
 **Today's Progress**: I could finally create two of the functions I struggled with earlier for the Tideman challenge, 2 more to go and I am done with it. Somehow this problem set seems harder than the ones before...
 
 **Thoughts:** : I do not have the mood to share my thoughts.
+
 **Link to work:** N/A
+
+### Day 32: May 15, 2020
+
+**Today's Progress**: Today I tried to understand recursion and practiced it a little bit. I would not say that I am completely  comfortable to use it but I could create some basic "logic" using it.
+
+**Thoughts:** : I was not continued my studies with the enxt week as I tried to understand recursion. I could create some functions with it and a bug of course :).
+
+**Link to work:** N/A
+
