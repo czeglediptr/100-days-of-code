@@ -272,3 +272,11 @@ Next up is the Substitution pset  which is a little bit harder.
 
 **Link to work:** N/A
 
+### Day 33: May 16, 2020
+
+**Today's Progress**: I had very little time today (1 hour) to code and I practiced recursion a little bit more. 
+
+**Thoughts:** : Nothing special, just a little coding at morning.
+
+**Link to work:** N/A
+
