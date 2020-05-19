@@ -280,3 +280,10 @@ Next up is the Substitution pset  which is a little bit harder.
 
 **Link to work:** N/A
 
+### Day 34: May 17, 2020
+
+**Today's Progress**: I contnued with the CS50 lectures and learn a bit more about how things are stored on memory and the background of pointers as well. 
+
+**Thoughts:** : Nothing special, just continued watching CS50 videos
+
+**Link to work:** N/A
