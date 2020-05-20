@@ -287,3 +287,12 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : Nothing special, just continued watching CS50 videos
 
 **Link to work:** N/A
+
+
+### Day 35: May 17, 2020
+
+**Today's Progress**: Continued with CS50 lectures and I learned about what heap or stack is exactly.
+
+**Thoughts:** : Nothing special, just continued watching CS50 videos
+
+**Link to work:** N/A
