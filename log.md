@@ -296,3 +296,12 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : Nothing special, just continued watching CS50 videos
 
 **Link to work:** N/A
+
+
+### Day 36: May 18, 2020
+
+**Today's Progress**: Today I created the functions to apply gray, sepia and reflection filters on a bmp image. That was very cool! 
+
+**Thoughts:** : I really enjoyed this problem set and only one function and I can submit it! Creating gray, sepia and reflection filters was very cool and I felt I create something interesting!
+
+**Link to work:** N/A
