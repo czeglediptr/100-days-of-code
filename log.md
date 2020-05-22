@@ -305,3 +305,13 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : I really enjoyed this problem set and only one function and I can submit it! Creating gray, sepia and reflection filters was very cool and I felt I create something interesting!
 
 **Link to work:** N/A
+
+
+### Day 37: May 19, 2020
+
+**Today's Progress**: Today I tested my code from yesterday and I ahd to modify grayscale and sepia functions. However the blur one still puzzles me. Lets see if I can solve it tomorrow!
+
+**Thoughts:** :I am tied, but I could correct grayscale and sepia functions, so that check50 accepted it.
+
+**Link to work:** N/A
+
