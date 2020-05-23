@@ -315,3 +315,11 @@ Next up is the Substitution pset  which is a little bit harder.
 
 **Link to work:** N/A
 
+
+### Day 38: May 20, 2020
+
+**Today's Progress**: Today could not concentrate enough to work on the blur image problem(i tried , but I did not crack it). I watched some tutorial about pointers, so my day could be still productive somehow. Now I am going to rest as my mind and body require it.
+
+**Thoughts:** :Today I could not get my head around the blur image problem, so I checked some videos about pointers instead.
+
+**Link to work:** N/A
