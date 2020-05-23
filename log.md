@@ -256,7 +256,7 @@ Next up is the Substitution pset  which is a little bit harder.
 
 **Link to work:** N/A
 
-### Day 31: May 15, 2020
+### Day 31: May 16, 2020
 
 **Today's Progress**: I could finally create two of the functions I struggled with earlier for the Tideman challenge, 2 more to go and I am done with it. Somehow this problem set seems harder than the ones before...
 
@@ -264,7 +264,7 @@ Next up is the Substitution pset  which is a little bit harder.
 
 **Link to work:** N/A
 
-### Day 32: May 15, 2020
+### Day 32: May 17, 2020
 
 **Today's Progress**: Today I tried to understand recursion and practiced it a little bit. I would not say that I am completely  comfortable to use it but I could create some basic "logic" using it.
 
@@ -272,7 +272,7 @@ Next up is the Substitution pset  which is a little bit harder.
 
 **Link to work:** N/A
 
-### Day 33: May 16, 2020
+### Day 33: May 18, 2020
 
 **Today's Progress**: I had very little time today (1 hour) to code and I practiced recursion a little bit more. 
 
@@ -280,7 +280,7 @@ Next up is the Substitution pset  which is a little bit harder.
 
 **Link to work:** N/A
 
-### Day 34: May 17, 2020
+### Day 34: May 19, 2020
 
 **Today's Progress**: I contnued with the CS50 lectures and learn a bit more about how things are stored on memory and the background of pointers as well. 
 
@@ -289,7 +289,7 @@ Next up is the Substitution pset  which is a little bit harder.
 **Link to work:** N/A
 
 
-### Day 35: May 17, 2020
+### Day 35: May 20, 2020
 
 **Today's Progress**: Continued with CS50 lectures and I learned about what heap or stack is exactly.
 
@@ -298,7 +298,7 @@ Next up is the Substitution pset  which is a little bit harder.
 **Link to work:** N/A
 
 
-### Day 36: May 18, 2020
+### Day 36: May 21, 2020
 
 **Today's Progress**: Today I created the functions to apply gray, sepia and reflection filters on a bmp image. That was very cool! 
 
@@ -307,7 +307,7 @@ Next up is the Substitution pset  which is a little bit harder.
 **Link to work:** N/A
 
 
-### Day 37: May 19, 2020
+### Day 37: May 22, 2020
 
 **Today's Progress**: Today I tested my code from yesterday and I ahd to modify grayscale and sepia functions. However the blur one still puzzles me. Lets see if I can solve it tomorrow!
 
@@ -316,7 +316,7 @@ Next up is the Substitution pset  which is a little bit harder.
 **Link to work:** N/A
 
 
-### Day 38: May 20, 2020
+### Day 38: May 23, 2020
 
 **Today's Progress**: Today could not concentrate enough to work on the blur image problem(i tried , but I did not crack it). I watched some tutorial about pointers, so my day could be still productive somehow. Now I am going to rest as my mind and body require it.
 
