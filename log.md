@@ -323,3 +323,11 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** :Today I could not get my head around the blur image problem, so I checked some videos about pointers instead.
 
 **Link to work:** N/A
+
+### Day 39: May 24, 2020
+
+**Today's Progress**: Most of the day I worked on a CI/CD pipeline for some of my static websites. It seems overengineering, but I learned a lot (and struggled a lot..). 
+
+**Thoughts:** : Today I paused CS50 a little bit and focused on CI/CD pipeline. It was fun!
+
+**Link to work:** N/A
