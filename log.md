@@ -331,3 +331,11 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : Today I paused CS50 a little bit and focused on CI/CD pipeline. It was fun!
 
 **Link to work:** N/A
+
+### Day 40: May 25, 2020
+
+**Today's Progress**: I tried to solve the blur box part of the problem set for CS50, but I got stuck again. Somehow I could not crack it. But I do not give up! I am going to sovle this one way or the other! Tomorrow is the next opportunity for that. If it takes 2 days or 100, I will solve it.
+
+**Thoughts:** : That blur box algorithm drives me crazy, but I am not giving up that easily. I will finish it, even if it takes a month or more!
+
+**Link to work:** N/A
