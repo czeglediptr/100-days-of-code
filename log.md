@@ -339,3 +339,11 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : That blur box algorithm drives me crazy, but I am not giving up that easily. I will finish it, even if it takes a month or more!
 
 **Link to work:** N/A
+
+### Day 41-42: May 26-27, 2020
+
+**Today's Progress**: Last two days was all about to somehow get my blur box algorithm work for CS50. As I found out, I created a "bug" so to speak, which was the core of my logic ^^'. I do not have to say that I spent hours until I found out yesterday (when I was walking to the barber) what the error was. So its done and its working! I am so happy that I have not given up!
+
+**Thoughts:** : The best bug is the one you created for your own "entertainment".
+
+**Link to work:** N/A
