@@ -347,3 +347,12 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : The best bug is the one you created for your own "entertainment".
 
 **Link to work:** N/A
+
+
+### Day 43: May 28, 2020
+
+**Today's Progress**: Today I started to create my solution for the file Recover problem set for CS50. It seems very interesting!
+
+**Thoughts:** : Today I started the Recover problem set and revisited some of the videos for the file pointer subject.
+
+**Link to work:** N/A
