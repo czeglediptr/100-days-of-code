@@ -356,3 +356,11 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : Today I started the Recover problem set and revisited some of the videos for the file pointer subject.
 
 **Link to work:** N/A
+
+### Day 44-45: May 29-30, 2020
+
+**Today's Progress**: These twod ays I worked on the Recover problem set, however I have not solved all of it just yet. Tomorrow I might take a day off as I feel mmself a little bit tired.
+
+**Thoughts:** : These twod ays I worked on the Recover problem set, however I have not solved all of it just yet. Tomorrow I might take a day off as I feel mmself a little bit tired.
+
+**Link to work:** N/A
