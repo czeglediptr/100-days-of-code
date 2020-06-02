@@ -364,3 +364,11 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : These twod ays I worked on the Recover problem set, however I have not solved all of it just yet. Tomorrow I might take a day off as I feel mmself a little bit tired.
 
 **Link to work:** N/A
+
+### Day 46: June 02, 2020
+
+**Today's Progress**: With a little bit of help I could solve the Recover problem set. I am so glad and proud that I could finish that one! This week of CS50 was the hardest so far.
+
+**Thoughts:** : Today I solved the Recover pset and even if I had to use a little bit of help to figure out the correct condition for the while statement, I am roud of my work! Keep going!
+
+**Link to work:** N/A
