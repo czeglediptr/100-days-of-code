@@ -372,3 +372,11 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : Today I solved the Recover pset and even if I had to use a little bit of help to figure out the correct condition for the while statement, I am roud of my work! Keep going!
 
 **Link to work:** N/A
+
+### Day 47: June 03, 2020
+
+**Today's Progress**: I practiced my C skills on hackerrank. I really like this platform, I found a lot of material for practicing.
+
+**Thoughts:** : A little pause in CS50 and some practice with C on hackerrank. I really like this platform!
+
+**Link to work:** N/A
