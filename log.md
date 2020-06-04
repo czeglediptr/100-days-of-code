@@ -380,3 +380,11 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : A little pause in CS50 and some practice with C on hackerrank. I really like this platform!
 
 **Link to work:** N/A
+
+### Day 48: June 04, 2020
+
+**Today's Progress**: I continued to do some challenges on hackerrank. These challenges really help me to deepen my knowledge before I continue CS50 at the weekend. 
+
+**Thoughts:** : Again some hackerrank which was a good excercise before work!
+
+**Link to work:** N/A
