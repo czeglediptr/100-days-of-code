@@ -388,3 +388,11 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : Again some hackerrank which was a good excercise before work!
 
 **Link to work:** N/A
+
+### Day 49: June 05, 2020
+
+**Today's Progress**: Continued with CS50 and learned about hash tables, linked lists tries, trees and more. It was a really interesting and "heavy" topic. I am not sure how long it will take to understand them, but the journey will be interesting!
+
+**Thoughts:** : I learned about data structures and Imust say this topic ishard a little bit but very interesting!
+
+**Link to work:** N/A
