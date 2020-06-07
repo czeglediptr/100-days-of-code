@@ -396,3 +396,11 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : I learned about data structures and Imust say this topic ishard a little bit but very interesting!
 
 **Link to work:** N/A
+
+### Day 50: June 07, 2020
+
+**Today's Progress**: As I realized after the Data Structure lesson in CS50, I have to practice linked lists, pointers a lot before I try to solve problem set 5. So today I practiced linked lists and I can not say I am very comfortable with it..but I am going to overcome this!
+
+**Thoughts:** : I am a bit confused about pointers and linked lists , so I am not rushing to solve the problem set as I want to be comfortable with them first.
+
+**Link to work:** N/A
