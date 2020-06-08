@@ -404,3 +404,11 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : I am a bit confused about pointers and linked lists , so I am not rushing to solve the problem set as I want to be comfortable with them first.
 
 **Link to work:** N/A
+
+### Day 51: June 08, 2020
+
+**Today's Progress**: Another day with linked lists and pointers. I understand it much better now, but I still require some practicing, so the days ahead are all about these two concepts + hash :)
+
+**Thoughts:** : Nothins special, practicing linked lists and pointer again.
+
+**Link to work:** N/A
