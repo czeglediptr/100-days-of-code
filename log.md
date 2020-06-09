@@ -412,3 +412,11 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : Nothins special, practicing linked lists and pointer again.
 
 **Link to work:** N/A
+
+### Day 52: June 09, 2020
+
+**Today's Progress**: Again. nothing new here..yes its linked list again folks..however I kinda start to be confident using it, so I level up things tomorrow!
+
+**Thoughts:** : Nothing special, practicing linked lists and pointer again.
+
+**Link to work:** N/A
