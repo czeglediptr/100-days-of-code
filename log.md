@@ -420,3 +420,11 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : Nothing special, practicing linked lists and pointer again.
 
 **Link to work:** N/A
+
+### Day 53: June 10, 2020
+
+**Today's Progress**: Today I practiced various aspects of the linked lists and I think I am confident enough to go and practice hash tables next time. 
+
+**Thoughts:** : Nothing special, practicing linked lists again.
+
+**Link to work:** N/A
