@@ -428,3 +428,11 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : Nothing special, practicing linked lists again.
 
 **Link to work:** N/A
+
+### Day 54: June 11, 2020
+
+**Today's Progress**: Today I continued Cs50 checked some videos about hash tables and started the Speller problem set. It seems complex at first glance...
+
+**Thoughts:** : Today I watched some videos and continued CS50 and it seems the Speller problem set not  easy but not as hard as I imagined. Lets see tomorrow what I can do with it.
+
+**Link to work:** N/A
