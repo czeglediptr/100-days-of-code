@@ -436,3 +436,11 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : Today I watched some videos and continued CS50 and it seems the Speller problem set not  easy but not as hard as I imagined. Lets see tomorrow what I can do with it.
 
 **Link to work:** N/A
+
+### Day 55: June 12, 2020
+
+**Today's Progress**:Started to working on the speller problem set. Also searched after some hash functions, but I have not decided yet which one I will use. 
+
+**Thoughts:** : Today I finished the load function and it was easier than I thought. I am looking forward to finish the speller problem set.
+
+**Link to work:** N/A
