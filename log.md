@@ -444,3 +444,11 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : Today I finished the load function and it was easier than I thought. I am looking forward to finish the speller problem set.
 
 **Link to work:** N/A
+
+### Day 56: June 15, 2020
+
+**Today's Progress**:Today I almost finished with the speller problem set, but the hash function I use has some memory leak in it. Tomorrow I am gong to sort it out ..(I hope...) 
+
+**Thoughts:** : Today morning was a very productive one, almost every function I wrote worked immediately. However "my" hash fucntion has some memory leak in it, so I have to refine it a little bit.
+
+**Link to work:** N/A
