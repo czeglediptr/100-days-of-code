@@ -452,3 +452,11 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : Today morning was a very productive one, almost every function I wrote worked immediately. However "my" hash fucntion has some memory leak in it, so I have to refine it a little bit.
 
 **Link to work:** N/A
+
+### Day 57: June 16, 2020
+
+**Today's Progress**: Finally I finished the speller problem set for CS50: Intro to Comp Sci. Thats all, I am happy about it :) 
+
+**Thoughts:** :Finally I finished the speller problem set for CS50: Intro to Comp Sci. Thats all, I am happy about it :)
+
+**Link to work:** N/A
