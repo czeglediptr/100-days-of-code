@@ -465,6 +465,15 @@ Next up is the Substitution pset  which is a little bit harder.
 
 **Today's Progress**: CS50 lectures continues..so today I watched the first video of week 6 and it was very interesting how python solves the problems compared to C. I kinda started to like C (which I neve imagined before) but I have to say python has its charm.
 
-**Thoughts:** :Contining the elctures and I am so happy that I am at week 6 of CS50 and I can say I am proud of myself.
+**Thoughts:** :Continuing the elctures and I am so happy that I am at week 6 of CS50 and I can say I am proud of myself.
+
+**Link to work:** N/A
+
+### Day 59: June 18, 2020
+
+**Today's Progress**: I finished the CS50 videos about python and I am going to start to solve the problem sets tomorrow.
+
+**Thoughts:** :I finished the CS50 videos about python and I am going to start to solve the problem sets tomorrow.
+
 
 **Link to work:** N/A
