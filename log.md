@@ -475,5 +475,12 @@ Next up is the Substitution pset  which is a little bit harder.
 
 **Thoughts:** :I finished the CS50 videos about python and I am going to start to solve the problem sets tomorrow.
 
+**Link to work:** N/A
+
+### Day 60: June 19, 2020
+
+**Today's Progress**: Today I solved the Mario problem set in python and it was really interesting how different can be the approach in python than in C. I really like this comparison after coding weeks in C.
+
+**Thoughts:** :How cool is to implement your program from C in python. Thats all for now :))
 
 **Link to work:** N/A
