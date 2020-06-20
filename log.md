@@ -484,3 +484,12 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** :How cool is to implement your program from C in python. Thats all for now :))
 
 **Link to work:** N/A
+
+
+### Day 61: June 20, 2020
+
+**Today's Progress**: I finished with the Credit problem set in python for CS50 and I am still amazed by python.
+
+**Thoughts:** : I am still solving the given problem set in python and I am very much amazed by the power of this language. Now after learning C I can understand a little bit of its charm.
+
+**Link to work:** N/A
