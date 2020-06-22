@@ -490,6 +490,13 @@ Next up is the Substitution pset  which is a little bit harder.
 
 **Today's Progress**: I finished with the Credit problem set in python for CS50 and I am still amazed by python.
 
-**Thoughts:** : I am still solving the given problem set in python and I am very much amazed by the power of this language. Now after learning C I can understand a little bit of its charm.
+**Thoughts:** : I am still solving the given problem sets in python and I am very much amazed by the power of this language. Now after learning C I can understand a little bit of its charm.
 
+**Link to work:** N/A
+
+### Day 62: June 21, 2020
+
+**Today's Progress**: I finished with the Readability problem set in python for CS50 , one more to go and I can move to the next week lectures. 
+
+**Thoughts:** : I solved readability today and now only DNA problem set is left for this week. Lets see what I can do with it tomorrow.
 **Link to work:** N/A
