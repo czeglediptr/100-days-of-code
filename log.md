@@ -494,9 +494,19 @@ Next up is the Substitution pset  which is a little bit harder.
 
 **Link to work:** N/A
 
-### Day 62: June 21, 2020
+### Day 62: June 22, 2020
 
 **Today's Progress**: I finished with the Readability problem set in python for CS50. I really like the comparison between C and python. It interesting how each solve the same problem.
 
 **Thoughts:** : I solved readability today and now only DNA problem set is left for this week. Lets see what I can do with it tomorrow.
+
+**Link to work:** N/A
+
+
+### Day 63: June 23, 2020
+
+**Today's Progress**: I started the DNA problem set which seems interesting. 
+
+**Thoughts:** : I started the DNA problem set which seems interesting. 
+
 **Link to work:** N/A
