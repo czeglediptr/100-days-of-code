@@ -510,3 +510,13 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : I started the DNA problem set which seems interesting. 
 
 **Link to work:** N/A
+
+
+### Day 64: June 24, 2020
+
+**Today's Progress**: Worked on the DNA problem set and get stuck a little bit. 
+
+**Thoughts:** : Worked on the DNA problem set and get stuck a little bit. 
+
+**Link to work:** N/A
+
