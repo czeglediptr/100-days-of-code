@@ -520,3 +520,11 @@ Next up is the Substitution pset  which is a little bit harder.
 
 **Link to work:** N/A
 
+### Day 65: June 26, 2020
+
+**Today's Progress**: I am still stuck with the DNA problemset, however I might have the idea for the solution. Its almost done, I am sure I can finish it tomorrow!
+
+**Thoughts:** : I am still stuck with the DNA problemset, however I might have the idea for the solution. Its almost done, I am sure I can finish it tomorrow!
+
+**Link to work:** N/A
+
