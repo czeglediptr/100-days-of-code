@@ -535,3 +535,10 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : Finally I could solve the DNA problem set for CS50: Introto CS. So I can go towards to learn SQL!
 
 **Link to work:** N/A
+
+### Day 68: July 01, 2020
+
+**Today's Progress**: I started the SQL lecture in CS50 and it seems very interesting!
+**Thoughts:** : I started the SQL lecture in CS50 and it seems very interesting!
+
+**Link to work:** N/A
