@@ -542,3 +542,10 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : I started the SQL lecture in CS50 and it seems very interesting!
 
 **Link to work:** N/A
+
+### Day 69: July 02, 2020
+
+**Today's Progress**: Today I finished the videos on SQL in CS50 and tomorrow I am going to dive into the problem sets!
+**Thoughts:** : Today I finished the videos on SQL in CS50 and tomorrow I am going to dive into the problem sets!
+
+**Link to work:** N/A
