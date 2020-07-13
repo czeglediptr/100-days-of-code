@@ -556,3 +556,12 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : Started the SQl problem sets and I have written my first few queries for the solution.
 
 **Link to work:** N/A
+
+### Day 71: July 13, 2020
+
+**Today's Progress**: I continued to write he SQl queries for one of the SQl problem sets. To be honest it was a pain to start it after one week off, but here I go..
+**Thoughts:** : I continued to write he SQl queries for one of the SQl problem sets. To be honest it was a pain to start it after one week off, but here I go..
+
+**Link to work:** N/A
+
+ 
