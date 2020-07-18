@@ -564,4 +564,9 @@ Next up is the Substitution pset  which is a little bit harder.
 
 **Link to work:** N/A
 
- 
+### Day 72: July 17, 2020
+
+**Today's Progress**: I finished the last problem set for Week 7 of CS50: Intro to CS course and I am going to start the last week video lecture.
+**Thoughts:** : I finished the last problem set for Week 7 of CS50: Intro to CS course and I am going to start the last week video lecture.
+
+**Link to work:** N/A 
