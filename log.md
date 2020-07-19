@@ -570,3 +570,10 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : I finished the last problem set for Week 7 of CS50: Intro to CS course and I am going to start the last week video lecture.
 
 **Link to work:** N/A 
+
+### Day 73: July 19, 2020
+
+**Today's Progress**: I watched the last week's video of CS50 and I am ready to take on one of the tracks ahead (or two) !
+**Thoughts:** : I watched the last week's video of CS50 and I am ready to take on one of the tracks ahead (or two) !
+
+**Link to work:** N/A 
