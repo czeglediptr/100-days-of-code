@@ -577,3 +577,10 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : I watched the last week's video of CS50 and I am ready to take on one of the tracks ahead (or two) !
 
 **Link to work:** N/A 
+
+### Day 74: July 21, 2020
+
+**Today's Progress**: I started the Games track in CS50 and I wrote my first program in Love2D (in lua) ! 
+**Thoughts:** : I started the Games track in CS50 and I wrote my first program in Love2D (in lua) ! 
+
+**Link to work:** N/A 
