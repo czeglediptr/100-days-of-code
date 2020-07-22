@@ -584,3 +584,11 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : I started the Games track in CS50 and I wrote my first program in Love2D (in lua) ! 
 
 **Link to work:** N/A 
+
+
+### Day 75: July 22, 2020
+
+**Today's Progress**: I continued with Pomngin the games track of CS50  and I learned more about lua and love2d ! I also wrote some code to setup a virtual screen.
+**Thoughts:** : I continued with Pomngin the games track of CS50  and I learned more about lua and love2d ! I also wrote some code to setup a virtual screen.
+
+**Link to work:** N/A 
