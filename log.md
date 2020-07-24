@@ -592,3 +592,11 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : I continued with Pomngin the games track of CS50  and I learned more about lua and love2d ! I also wrote some code to setup a virtual screen.
 
 **Link to work:** N/A 
+
+
+### Day 76: July 24, 2020
+
+**Today's Progress**: I watched how to draw rectangles and after that  I drew 3 rectangles for Pong in love2d and made some adjustment for the background color.
+**Thoughts:** : I watched how to draw rectangles and after that  I drew 3 rectangles for Pong in love2d and made some adjustment for the background color.
+
+**Link to work:** N/A 
