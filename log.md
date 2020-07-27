@@ -600,3 +600,9 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : I watched how to draw rectangles and after that  I drew 3 rectangles for Pong in love2d and made some adjustment for the background color.
 
 **Link to work:** N/A 
+
+### Day 77: July 27, 2020
+
+**Today's Progress**: Today I updated the pong game and the paddles are moving for both players when the spcified keys are down.
+**Thoughts:** : Today I updated the pong game and the paddles are moving for both players when the spcified keys are down.
+**Link to work:** N/A 
