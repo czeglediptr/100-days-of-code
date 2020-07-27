@@ -604,5 +604,6 @@ Next up is the Substitution pset  which is a little bit harder.
 ### Day 77: July 27, 2020
 
 **Today's Progress**: Today I updated the pong game and the paddles are moving for both players when the spcified keys are down.
-**Thoughts:** : Today I updated the pong game and the paddles are moving for both players when the spcified keys are down.
+**Thoughts:**: Today I updated the pong game and the paddles are moving for both players when the spcified keys are down.
+
 **Link to work:** N/A 
