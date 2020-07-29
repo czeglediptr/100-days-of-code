@@ -606,4 +606,12 @@ Next up is the Substitution pset  which is a little bit harder.
 **Today's Progress**: Today I updated the pong game and the paddles are moving for both players when the spcified keys are down.
 **Thoughts:**: Today I updated the pong game and the paddles are moving for both players when the spcified keys are down.
 
+**Link to work:** N/A
+
+
+### Day 78: July 29, 2020
+
+**Today's Progress**: Learned how OOP is done in lua and refactored the code for pong.
+**Thoughts:**: Learned how OOP is done in lua and refactored the code for pong.
+
 **Link to work:** N/A 
