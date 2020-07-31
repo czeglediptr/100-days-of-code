@@ -615,3 +615,10 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:**: Learned how OOP is done in lua and refactored the code for pong.
 
 **Link to work:** N/A 
+
+### Day 79: July 30, 2020
+
+**Today's Progress**: Finished the code refactoring and I addedd colission to pong, so the ball now collides wit the paddles.
+**Thoughts:**: Finished the code refactoring and I addedd colission to pong, so the ball now collides wit the paddles.
+
+**Link to work:** N/A 
