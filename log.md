@@ -557,12 +557,14 @@ Next up is the Substitution pset  which is a little bit harder.
 
 **Link to work:** N/A
 
+
 ### Day 71: July 13, 2020
 
 **Today's Progress**: I continued to write he SQl queries for one of the SQl problem sets. To be honest it was a pain to start it after one week off, but here I go..
 **Thoughts:** : I continued to write he SQl queries for one of the SQl problem sets. To be honest it was a pain to start it after one week off, but here I go..
 
 **Link to work:** N/A
+
 
 ### Day 72: July 17, 2020
 
@@ -577,6 +579,7 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : I watched the last week's video of CS50 and I am ready to take on one of the tracks ahead (or two) !
 
 **Link to work:** N/A 
+
 
 ### Day 74: July 21, 2020
 
@@ -600,6 +603,7 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:** : I watched how to draw rectangles and after that  I drew 3 rectangles for Pong in love2d and made some adjustment for the background color.
 
 **Link to work:** N/A 
+
 
 ### Day 77: July 27, 2020
 
@@ -626,7 +630,7 @@ Next up is the Substitution pset  which is a little bit harder.
 
 ### Day 80: Aug 04, 2020
 
-**Today's Progress**: Today I after watching the video lectures, I added title, serving state and score updates to Pong.
+**Today's Progress**: Today after watching the video lectures, I added title, serving state and score updates to Pong.
 **Thoughts:**: Today I after watching the video lectures, I added title, serving state and score updates to Pong.
 
 **Link to work:** N/A 
