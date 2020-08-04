@@ -622,3 +622,11 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts:**: Finished the code refactoring and I addedd colission to pong, so the ball now collides wit the paddles.
 
 **Link to work:** N/A 
+
+
+### Day 80: Aug 04, 2020
+
+**Today's Progress**: Today I after watching the video lectures, I added title, serving state and score updates to Pong.
+**Thoughts:**: Today I after watching the video lectures, I added title, serving state and score updates to Pong.
+
+**Link to work:** N/A 
