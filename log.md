@@ -473,7 +473,7 @@ Next up is the Substitution pset  which is a little bit harder.
 
 **Today's Progress**: I finished the CS50 videos about python and I am going to start to solve the problem sets tomorrow.
 
-**Thoughts:** :I finished the CS50 videos about python and I am going to start to solve the problem sets tomorrow.
+**Thoughts**: I finished the CS50 videos about python and I am going to start to solve the problem sets tomorrow.
 
 **Link to work:** N/A
 
@@ -481,7 +481,7 @@ Next up is the Substitution pset  which is a little bit harder.
 
 **Today's Progress**: Today I solved the Mario problem set in python and it was really interesting how different can be the approach in python than in C.
 
-**Thoughts:** :How cool is to implement your program from C in python. Thats all for now :))
+**Thoughts**: How cool is to implement your program from C in python. Thats all for now :))
 
 **Link to work:** N/A
 
@@ -490,7 +490,7 @@ Next up is the Substitution pset  which is a little bit harder.
 
 **Today's Progress**: I finished with the Credit problem set in python for CS50 and I am still amazed by python.
 
-**Thoughts:** : I am still solving the given problem sets in python and I am very much amazed by the power of this language. Now after learning C I can understand a little bit of its charm.
+**Thoughts**: I am still solving the given problem sets in python and I am very much amazed by the power of this language. Now after learning C I can understand a little bit of its charm.
 
 **Link to work:** N/A
 
@@ -498,7 +498,7 @@ Next up is the Substitution pset  which is a little bit harder.
 
 **Today's Progress**: I finished with the Readability problem set in python for CS50. I really like the comparison between C and python. It interesting how each solve the same problem.
 
-**Thoughts:** : I solved readability today and now only DNA problem set is left for this week. Lets see what I can do with it tomorrow.
+**Thoughts**: I solved readability today and now only DNA problem set is left for this week. Lets see what I can do with it tomorrow.
 
 **Link to work:** N/A
 
@@ -507,7 +507,7 @@ Next up is the Substitution pset  which is a little bit harder.
 
 **Today's Progress**: I started the DNA problem set which seems interesting. 
 
-**Thoughts:** : I started the DNA problem set which seems interesting. 
+**Thoughts**: I started the DNA problem set which seems interesting. 
 
 **Link to work:** N/A
 
@@ -516,7 +516,7 @@ Next up is the Substitution pset  which is a little bit harder.
 
 **Today's Progress**: Worked on the DNA problem set and get stuck a little bit. 
 
-**Thoughts:** : Worked on the DNA problem set and get stuck a little bit. 
+**Thoughts**: Worked on the DNA problem set and get stuck a little bit. 
 
 **Link to work:** N/A
 
@@ -524,7 +524,7 @@ Next up is the Substitution pset  which is a little bit harder.
 
 **Today's Progress**: I am still stuck with the DNA problemset, however I might have the idea for the solution. Its almost done, I am sure I can finish it tomorrow!
 
-**Thoughts:** : I am still stuck with the DNA problemset, however I might have the idea for the solution. Its almost done, I am sure I can finish it tomorrow!
+**Thoughts**: I am still stuck with the DNA problemset, however I might have the idea for the solution. Its almost done, I am sure I can finish it tomorrow!
 
 **Link to work:** N/A
 
@@ -532,28 +532,31 @@ Next up is the Substitution pset  which is a little bit harder.
 
 **Today's Progress**: Finally I could solve the DNA problem set for CS50: Introto CS. So I can go towards to learn SQL!
 
-**Thoughts:** : Finally I could solve the DNA problem set for CS50: Introto CS. So I can go towards to learn SQL!
+**Thoughts**: Finally I could solve the DNA problem set for CS50: Introto CS. So I can go towards to learn SQL!
 
 **Link to work:** N/A
 
 ### Day 68: July 01, 2020
 
 **Today's Progress**: I started the SQL lecture in CS50 and it seems very interesting!
-**Thoughts:** : I started the SQL lecture in CS50 and it seems very interesting!
+
+**Thoughts**: I started the SQL lecture in CS50 and it seems very interesting!
 
 **Link to work:** N/A
 
 ### Day 69: July 02, 2020
 
 **Today's Progress**: Today I finished the videos on SQL in CS50 and tomorrow I am going to dive into the problem sets!
-**Thoughts:** : Today I finished the videos on SQL in CS50 and tomorrow I am going to dive into the problem sets!
+
+**Thoughts**: Today I finished the videos on SQL in CS50 and tomorrow I am going to dive into the problem sets!
 
 **Link to work:** N/A
 
 ### Day 70: July 03, 2020
 
 **Today's Progress**: Started the SQl problem sets and I have written my first few queries for the solution.
-**Thoughts:** : Started the SQl problem sets and I have written my first few queries for the solution.
+
+**Thoughts**: Started the SQl problem sets and I have written my first few queries for the solution.
 
 **Link to work:** N/A
 
@@ -561,7 +564,8 @@ Next up is the Substitution pset  which is a little bit harder.
 ### Day 71: July 13, 2020
 
 **Today's Progress**: I continued to write he SQl queries for one of the SQl problem sets. To be honest it was a pain to start it after one week off, but here I go..
-**Thoughts:** : I continued to write he SQl queries for one of the SQl problem sets. To be honest it was a pain to start it after one week off, but here I go..
+
+**Thoughts**: I continued to write he SQl queries for one of the SQl problem sets. To be honest it was a pain to start it after one week off, but here I go..
 
 **Link to work:** N/A
 
@@ -569,14 +573,16 @@ Next up is the Substitution pset  which is a little bit harder.
 ### Day 72: July 17, 2020
 
 **Today's Progress**: I finished the last problem set for Week 7 of CS50: Intro to CS course and I am going to start the last week video lecture.
-**Thoughts:** : I finished the last problem set for Week 7 of CS50: Intro to CS course and I am going to start the last week video lecture.
+
+**Thoughts**: I finished the last problem set for Week 7 of CS50: Intro to CS course and I am going to start the last week video lecture.
 
 **Link to work:** N/A 
 
 ### Day 73: July 19, 2020
 
 **Today's Progress**: I watched the last week's video of CS50 and I am ready to take on one of the tracks ahead (or two) !
-**Thoughts:** : I watched the last week's video of CS50 and I am ready to take on one of the tracks ahead (or two) !
+
+**Thoughts**: I watched the last week's video of CS50 and I am ready to take on one of the tracks ahead (or two) !
 
 **Link to work:** N/A 
 
@@ -584,7 +590,8 @@ Next up is the Substitution pset  which is a little bit harder.
 ### Day 74: July 21, 2020
 
 **Today's Progress**: I started the Games track in CS50 and I wrote my first program in Love2D (in lua) ! 
-**Thoughts:** : I started the Games track in CS50 and I wrote my first program in Love2D (in lua) ! 
+
+**Thoughts**: I started the Games track in CS50 and I wrote my first program in Love2D (in lua) ! 
 
 **Link to work:** N/A 
 
@@ -592,7 +599,8 @@ Next up is the Substitution pset  which is a little bit harder.
 ### Day 75: July 22, 2020
 
 **Today's Progress**: I continued with Pomngin the games track of CS50  and I learned more about lua and love2d ! I also wrote some code to setup a virtual screen.
-**Thoughts:** : I continued with Pomngin the games track of CS50  and I learned more about lua and love2d ! I also wrote some code to setup a virtual screen.
+
+**Thoughts**: I continued with Pomngin the games track of CS50  and I learned more about lua and love2d ! I also wrote some code to setup a virtual screen.
 
 **Link to work:** N/A 
 
@@ -600,7 +608,8 @@ Next up is the Substitution pset  which is a little bit harder.
 ### Day 76: July 24, 2020
 
 **Today's Progress**: I watched how to draw rectangles and after that  I drew 3 rectangles for Pong in love2d and made some adjustment for the background color.
-**Thoughts:** : I watched how to draw rectangles and after that  I drew 3 rectangles for Pong in love2d and made some adjustment for the background color.
+
+**Thoughts**: I watched how to draw rectangles and after that  I drew 3 rectangles for Pong in love2d and made some adjustment for the background color.
 
 **Link to work:** N/A 
 
@@ -608,7 +617,8 @@ Next up is the Substitution pset  which is a little bit harder.
 ### Day 77: July 27, 2020
 
 **Today's Progress**: Today I updated the pong game and the paddles are moving for both players when the spcified keys are down.
-**Thoughts:**: Today I updated the pong game and the paddles are moving for both players when the spcified keys are down.
+
+**Thoughts**: Today I updated the pong game and the paddles are moving for both players when the spcified keys are down.
 
 **Link to work:** N/A
 
@@ -616,14 +626,16 @@ Next up is the Substitution pset  which is a little bit harder.
 ### Day 78: July 29, 2020
 
 **Today's Progress**: Learned how OOP is done in lua and refactored the code for pong.
-**Thoughts:**: Learned how OOP is done in lua and refactored the code for pong.
+
+**Thoughts**: Learned how OOP is done in lua and refactored the code for pong.
 
 **Link to work:** N/A 
 
 ### Day 79: July 30, 2020
 
 **Today's Progress**: Finished the code refactoring and I addedd colission to pong, so the ball now collides wit the paddles.
-**Thoughts:**: Finished the code refactoring and I addedd colission to pong, so the ball now collides wit the paddles.
+
+**Thoughts**: Finished the code refactoring and I addedd colission to pong, so the ball now collides wit the paddles.
 
 **Link to work:** N/A 
 
@@ -631,6 +643,7 @@ Next up is the Substitution pset  which is a little bit harder.
 ### Day 80: Aug 04, 2020
 
 **Today's Progress**: Today after watching the video lectures, I added title, serving state and score updates to Pong.
-**Thoughts:**: Today I after watching the video lectures, I added title, serving state and score updates to Pong.
+
+**Thoughts**: Today I after watching the video lectures, I added title, serving state and score updates to Pong.
 
 **Link to work:** N/A 
