@@ -647,3 +647,12 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts**: Today I after watching the video lectures, I added title, serving state and score updates to Pong.
 
 **Link to work:** N/A 
+
+
+### Day 81: Aug 05, 2020
+
+**Today's Progress**: I watched the last 3 videos of the pong track of  CS50 and added audio, window resize, to pong. Also I added the 'victory update' so that on certain score the game is going to end. Next up is the AI update which is fully up to me, without any video lecture.
+
+**Thoughts**: I watched the last 3 videos of the pong track of  CS50 and added audio, window resize, to pong. Also I added the 'victory update' so that on certain score the game is going to end. Next up is the AI update which is fully up to me, without any video lecture.
+
+**Link to work:** N/A 
