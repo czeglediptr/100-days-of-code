@@ -656,3 +656,12 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts**: I watched the last 3 videos of the pong track of  CS50 and added audio, window resize, to pong. Also I added the 'victory update' so that on certain score the game is going to end. Next up is the AI update which is fully up to me, without any video lecture.
 
 **Link to work:** N/A 
+
+
+### Day 82: Aug 06, 2020
+
+**Today's Progress**: Finished the AI update for Pong. Its not the smartest AI in the world, but it works :).
+
+**Thoughts**:Finished the AI update for Pong. Its not the smartest AI in the world, but it works :).
+
+**Link to work:** N/A 
