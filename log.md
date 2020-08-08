@@ -665,3 +665,11 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts**:Finished the AI update for Pong. Its not the smartest AI in the world, but it works :).
 
 **Link to work:** N/A 
+
+### Day 83: Aug 07, 2020
+
+**Today's Progress**: I started the mario track with the first video on CS50 and I have to say I did not understand everything at first, so i need to rewatch it again.
+
+**Thoughts**:I started the mario track with the first video on CS50 and I have to say I did not understand everything at first, so i need to rewatch it again.
+
+**Link to work:** N/A 
