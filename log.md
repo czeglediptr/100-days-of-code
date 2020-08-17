@@ -673,3 +673,13 @@ Next up is the Substitution pset  which is a little bit harder.
 **Thoughts**:I started the mario track with the first video on CS50 and I have to say I did not understand everything at first, so i need to rewatch it again.
 
 **Link to work:** N/A 
+
+
+### Day 84: Aug 17, 2020
+
+**Today's Progress**: Today I started the web track of CS50 and I am curious what it hides for me :)
+
+**Thoughts**: Today I started the web track of CS50 and I am curious what it hides for me :)
+
+**Link to work:** N/A 
+
